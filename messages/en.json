@@ -1,0 +1,79 @@
+{
+  "header": {
+    "logo": "MaxCompanion",
+    "joinWaitlist": "Join Waitlist"
+  },
+  "hero": {
+    "title": "Merge 3D Assets",
+    "titleHighlight": "Instantly",
+    "subtitle": "No more manual extraction or re-linking — one click, done.",
+    "cta": "Join Waitlist"
+  },
+  "features": {
+    "title": "Why Choose MaxCompanion",
+    "subtitle": "Powerful features designed specifically for 3ds Max professionals",
+    "speed": {
+      "title": "Speed",
+      "description": "Import in seconds and keep your creative flow uninterrupted."
+    },
+    "integrity": {
+      "title": "Integrity", 
+      "description": "Materials and textures preserved perfectly — no relinking hassles."
+    },
+    "smartLibrary": {
+      "title": "Smart Library",
+      "description": "Organize, search, and insert assets effortlessly across projects."
+    }
+  },
+  "workflow": {
+    "title": "Workflow Transformation",
+    "subtitle": "See the dramatic difference MaxCompanion makes in your daily 3D workflow",
+    "old": {
+      "title": "Old Workflow",
+      "description": "Manual extraction, relinking textures, broken materials, endless folders."
+    },
+    "new": {
+      "title": "With MaxCompanion",
+      "description": "One-click import with materials intact, organized libraries, consistent scenes."
+    }
+  },
+  "testimonials": {
+    "title": "What Designers Say",
+    "subtitle": "Real feedback from 3D professionals who've transformed their workflow",
+    "quote": "MaxCompanion cuts my asset setup time dramatically. It just works."
+  },
+  "feedback": {
+    "title": "Help Shape MaxCompanion",
+    "subtitle": "Answer a few quick questions to help us build the perfect tool for your needs"
+  },
+  "signup": {
+    "title": "Ready to Transform Your Workflow?",
+    "subtitle": "Join thousands of 3D professionals already on the waitlist for early access",
+    "email": "Email",
+    "emailRequired": "*",
+    "emailPlaceholder": "you@studio.com",
+    "whatsapp": "WhatsApp",
+    "whatsappPlaceholder": "+1 555 123 4567",
+    "telegram": "Telegram",
+    "telegramPlaceholder": "@yourhandle",
+    "notes": "Notes",
+    "notesPlaceholder": "Your use-case or tools (e.g. Corona, V-Ray)",
+    "submit": "Join Waitlist",
+    "submitting": "Submitting...",
+    "success": "You're on the list! We'll be in touch soon.",
+    "privacy": "Protected by Supabase. We never share your info."
+  },
+  "footer": {
+    "copyright": "© 2025 MaxCompanion",
+    "social": {
+      "twitter": "Twitter",
+      "instagram": "Instagram", 
+      "youtube": "YouTube"
+    }
+  },
+  "language": {
+    "en": "English",
+    "ru": "Русский",
+    "kk": "Қазақша"
+  }
+}
